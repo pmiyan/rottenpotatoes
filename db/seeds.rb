@@ -1,5 +1,9 @@
 # Seed the RottenPotatoes DB with some movies.
 more_movies = [
+  {:title => 'Avatar: The Way of Water', :rating => 'PG-13',
+    :release_date => '12-Dec-2022'},
+  {:title => 'Spider-Man: No Way Home', :rating => 'PG-13',
+    :release_date => '17-Dec-2021'},
   {:title => 'My Neighbor Totoro', :rating => 'G',
     :release_date => '16-Apr-1988'},
   {:title => 'Green Book', :rating => 'PG-13',
